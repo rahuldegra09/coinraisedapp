@@ -39,6 +39,7 @@ import rahul from './rahul.png';
 import sahil from './sahil.jpg';
 import jayant from './jayant.jpg';
 import anjali from './anjali.jpg';
+import abt from './abt.png';
 
 export {
   tagType,
@@ -78,6 +79,6 @@ export {
   up,
   aa,
   rahul,
-  sahil,jayant,anjali
+  sahil,jayant,anjali,abt
 
 };
