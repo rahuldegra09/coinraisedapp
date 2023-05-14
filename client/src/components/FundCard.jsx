@@ -38,7 +38,7 @@ const FundCard = ({ owner, title, description, target, deadline, amountCollected
           </div>
           <p className="flex-1 font-epilogue font-normal text-[12px] text-rose-300 truncate">by <span className="text-slate-400">{owner}</span></p>
           
-          <p className="flex-1 font-epilogue font-normal text-[12px] text-[#808191] text-yellow-600 truncate">prediction <span className="text-[#b2b3bd]">{prediction}</span></p>
+          <p className="flex-1 font-epilogue font-normal text-[12px] text-[#808191] text-yellow-600 truncate">Success rate<span className="text-[#b2b3bd]">{prediction}</span></p>
         </div>
       </div>
       
